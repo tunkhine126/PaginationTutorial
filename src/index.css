@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.user-card {
+  margin: 5px
+}
+
+.pagination-controls {
+  color: black
+}
+
+.button{
+  margin: 2px;
+}
